@@ -61,6 +61,8 @@ Fetches listings and inserts cleaned data into SQL Server.
 ### 🔹 `4-API_car_price.py` — REST API (FastAPI)
 Exposes stored data via an HTTP API.
 
+---
+
 **Endpoint:**
 ```http
 GET /206cars
